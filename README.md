@@ -14,6 +14,9 @@ Two small, deliberately-separate tools for blockchain security study & dApp QA:
 These two tools are intentionally **not connected**. The simulator does not
 export keys; the QA scripts do not consume the simulator's keystream.
 
+> Looking for a step-by-step local setup walkthrough (Antigravity / VS Code,
+> Sepolia faucet links, troubleshooting)? See [**`RUNNING.md`**](./RUNNING.md).
+
 > ⚠️ Both halves are for **legitimate research and your own testnet wallets only**.
 > The simulator is purely educational — its whole point is to show why
 > brute-forcing a specific Ethereum address is computationally infeasible.
